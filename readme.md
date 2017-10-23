@@ -92,7 +92,7 @@ edades = [32, 28, 41, 19]
 	personas_hash = {"Carolina": 32, "Alejandro":28, "María Jesús":41, "Valentín":19}
 	~~~
 
-2. Crear un método que reciba el hash y devuelva la edad del hash pasado como argumento.
+2. Crear un método que reciba el hash y devuelva el promedio de las edades del hash pasado como argumento.
 
 ## Ejercicio 5: Array y Hashes
 
